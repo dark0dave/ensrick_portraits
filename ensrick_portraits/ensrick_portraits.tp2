@@ -151,6 +151,7 @@ END
 ACTION_IF NOT FILE_EXISTS ~override/MINSCL.BMP~ BEGIN
   COPY ~%MOD_FOLDER%/portraits/MINSCL.BMP~ ~override~
   COPY ~%MOD_FOLDER%/portraits/MINSCM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/portraits/MINSCS.BMP~ ~override~
 END
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
