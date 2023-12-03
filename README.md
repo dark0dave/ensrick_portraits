@@ -38,14 +38,6 @@ Provided both a zip for ease of use plus a weidu mod.
 
 ![NEERA](ensrick_portraits/portraits/NEERAL.BMP)
 
-![NIMOEN](ensrick_portraits/portraits/NIMOENL.BMP)
-
-![NJAHEIR](ensrick_portraits/portraits/NJAHEIRL.BMP)
-
-![NMINSC](ensrick_portraits/portraits/NMINSCL.BMP)
-
-![NVICON](ensrick_portraits/portraits/NVICONL.BMP)
-
 ![RASAAD](ensrick_portraits/portraits/RASAADL.BMP)
 
 ![SAFANA](ensrick_portraits/portraits/SAFANAL.BMP)
