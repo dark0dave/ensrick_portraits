@@ -16,7 +16,7 @@ LANGUAGE ~English~
 
 BEGIN ~ensrick_portraits~
 DESIGNATED 1
-REQUIRE_PREDICATE ENGINE_IS ~bgee bg2ee eet~ ~This mod cannot be installed on this game~
+REQUIRE_PREDICATE GAME_IS ~bgee eet~ ~This mod cannot be installed on this game~
 
 ACTION_IF NOT FILE_EXISTS ~override/AJANTISL.BMP~ BEGIN
   COPY ~%MOD_FOLDER%/portraits/AJANTISL.BMP~ ~override~
