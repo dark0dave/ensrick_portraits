@@ -16,7 +16,7 @@ LANGUAGE ~English~
 
 BEGIN ~ensrick_portraits~
 DESIGNATED 1
-REQUIRE_PREDICATE ENGINE_IS ~bgee eet~ ~This mod cannot be installed on this game~
+REQUIRE_PREDICATE ENGINE_IS ~bgee bg2ee eet~ ~This mod cannot be installed on this game~
 
 ACTION_IF NOT FILE_EXISTS ~override/AJANTISL.BMP~ BEGIN
   COPY ~%MOD_FOLDER%/portraits/AJANTISL.BMP~ ~override~
@@ -148,6 +148,11 @@ ACTION_IF NOT FILE_EXISTS ~override/VOGHILNL.BMP~ BEGIN
   COPY ~%MOD_FOLDER%/portraits/VOGHILNS.BMP~ ~override~
 END
 
+ACTION_IF NOT FILE_EXISTS ~override/MINSCL.BMP~ BEGIN
+  COPY ~%MOD_FOLDER%/portraits/MINSCL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/portraits/MINSCM.BMP~ ~override~
+END
+
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////                                                  \\\\\
@@ -183,4 +188,9 @@ END
 ACTION_IF NOT FILE_EXISTS ~override/RASAADL.BMP~ BEGIN
   COPY ~%MOD_FOLDER%/portraits/RASAADL.BMP~ ~override~
   COPY ~%MOD_FOLDER%/portraits/RASAADM.BMP~ ~override~
+END
+
+ACTION_IF NOT FILE_EXISTS ~override/NMINSCL.BMP~ BEGIN
+  COPY ~%MOD_FOLDER%/portraits/NMINSCL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/portraits/NMINSCM.BMP~ ~override~
 END
