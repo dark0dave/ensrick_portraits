@@ -4,6 +4,9 @@ set -euo pipefail
 gen() {
   echo -e "# Ensrick Portraits \n"
   echo -e "Provided both a zip for ease of use plus a weidu mod.\n"
+  echo -e "## Overwrite table\n"
+  echo -e "- [table](https://baldursgate.fandom.com/wiki/Portrait_File_Names)"
+  echo -e "- [replace](https://baldursgate.fandom.com/wiki/Portraits#Adding_Custom_Portraits)"
   echo -e "\n## Portraits"
 
   for portrait in $(find ensrick_portraits/portraits/ -type f | sed 's/..BMP//' | sort | uniq); do

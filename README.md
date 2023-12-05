@@ -2,6 +2,10 @@
 
 Provided both a zip for ease of use plus a weidu mod.
 
+## Overwrite table
+
+- [table](https://baldursgate.fandom.com/wiki/Portrait_File_Names)
+- [replace](https://baldursgate.fandom.com/wiki/Portraits#Adding_Custom_Portraits)
 
 ## Portraits
 
