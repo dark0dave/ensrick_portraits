@@ -13,8 +13,6 @@ jobs:
       - uses: actions/checkout@v4
       - name: zip
         run: |
-          apt update -yqqq
-          apt install -yqqq zip
           zip -r ensrick_portraits.zip ensrick_portraits/portraits
       - name: Archive release artifacts
         uses: actions/upload-artifact@v3
