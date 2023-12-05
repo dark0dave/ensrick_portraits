@@ -7,7 +7,7 @@ Provided both a zip for ease of use plus a weidu mod.
 - [table](https://baldursgate.fandom.com/wiki/Portrait_File_Names)
 - [replace](https://baldursgate.fandom.com/wiki/Portraits#Adding_Custom_Portraits)
 
-## Portraits
+## Companion Portraits
 
 ### AJANTIS
 
@@ -167,4 +167,12 @@ Provided both a zip for ease of use plus a weidu mod.
 ### VOGHILN
 
 ![VOGHILN](ensrick_portraits/companions/VOGHILNL.BMP)
+
+
+## Protagonist Portraits
+
+
+### BERSERK
+
+![BERSERK](ensrick_portraits/protagonist/BERSERKL.BMP)
 
