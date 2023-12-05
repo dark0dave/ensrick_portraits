@@ -95,6 +95,11 @@ Provided both a zip for ease of use plus a weidu mod.
 ![MKHIIN](ensrick_portraits/portraits/MKHIINL.BMP)
 
 
+### MONTAR
+
+![MONTAR](ensrick_portraits/portraits/MONTARL.BMP)
+
+
 ### NEERA
 
 ![NEERA](ensrick_portraits/portraits/NEERAL.BMP)

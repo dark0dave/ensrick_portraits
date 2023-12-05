@@ -112,6 +112,12 @@ ACTION_IF NOT FILE_EXISTS ~override/MKHIINL.BMP~ BEGIN
   COPY ~%MOD_FOLDER%/portraits/MKHIINS.BMP~ ~override~
 END
 
+ACTION_IF NOT FILE_EXISTS ~override/MONTARL.BMP~ BEGIN
+  COPY ~%MOD_FOLDER%/portraits/MONTARL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/portraits/MONTARM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/portraits/MONTARS.BMP~ ~override~
+END
+
 ACTION_IF NOT FILE_EXISTS ~override/NEERAL.BMP~ BEGIN
   COPY ~%MOD_FOLDER%/portraits/NEERAL.BMP~ ~override~
   COPY ~%MOD_FOLDER%/portraits/NEERAM.BMP~ ~override~
