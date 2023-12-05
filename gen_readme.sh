@@ -9,7 +9,7 @@ gen() {
   echo -e "- [replace](https://baldursgate.fandom.com/wiki/Portraits#Adding_Custom_Portraits)"
   echo -e "\n## Portraits"
 
-  for portrait in $(find ensrick_portraits/portraits/ -type f | sed 's/..BMP//' | sort | uniq); do
+  for portrait in $(find ensrick_portraits/companions/ -type f | sed 's/..BMP//' | sort | uniq); do
     shortname=$(echo "${portrait}" | awk -F '/' '{print $3}')
     echo -e "\n### ${shortname}\n"
     echo -e "![${shortname}](${portrait}"L.BMP")\n"

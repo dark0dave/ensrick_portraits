@@ -1,7 +1,7 @@
 BACKUP ~ensrick_portraits/backup~
 AUTHOR ~ensrick~
 
-VERSION ~v0.1~
+VERSION ~v0.2~
 
 LANGUAGE ~English~
          ~english~
@@ -14,162 +14,162 @@ LANGUAGE ~English~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
-BEGIN ~ensrick_portraits~
-DESIGNATED 1
+BEGIN ~companions_bg1~
+DESIGNATED 0
 REQUIRE_PREDICATE GAME_IS ~bgee eet~ ~This mod cannot be installed on this game~
 
 ACTION_IF NOT FILE_EXISTS ~override/AJANTISL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/AJANTISL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/AJANTISM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/AJANTISS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/AJANTISL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/AJANTISM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/AJANTISS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/ALORAL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/ALORAL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/ALORAM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/ALORAS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/ALORAL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/ALORAM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/ALORAS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/BRANWEL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/BRANWEL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/BRANWEM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/BRANWES.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/BRANWEL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/BRANWEM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/BRANWES.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/EDWINL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/EDWINL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/EDWINM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/EDWINS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/EDWINL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/EDWINM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/EDWINS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/SCHAELL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/SCHAELL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/SCHAELM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/SCHAELS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/SCHAELL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/SCHAELM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/SCHAELS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/CORANL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/CORANL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/CORANM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/CORANS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/CORANL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/CORANM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/CORANS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/DORNL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/DORNL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/DORNM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/DORNS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/DORNL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/DORNM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/DORNS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/DYNAHEIL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/DYNAHEIL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/DYNAHEIM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/DYNAHEIS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/DYNAHEIL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/DYNAHEIM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/DYNAHEIS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/ELDOTHL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/ELDOTHL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/ELDOTHM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/ELDOTHS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/ELDOTHL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/ELDOTHM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/ELDOTHS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/FALDORNL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/FALDORNL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/FALDORNM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/FALDORNS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/FALDORNL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/FALDORNM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/FALDORNS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/GLINTL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/GLINTL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/GLINTL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/GLINTL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/GLINTL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/GLINTL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/GLINTL.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/NIMOENL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/NIMOENL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/NIMOENM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/NIMOENS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NIMOENL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NIMOENM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NIMOENS.BMP~ ~override~
 END
 ACTION_IF NOT FILE_EXISTS ~override/BDIMOENL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/BDIMOENL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/BDIMOENM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/BDIMOENS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/BDIMOENL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/BDIMOENM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/BDIMOENS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/JAHEIRAL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/JAHEIRAL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/JAHEIRAM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/JAHEIRAS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/JAHEIRAL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/JAHEIRAM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/JAHEIRAS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/KHALIDL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/KHALIDL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/KHALIDM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/KHALIDS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/KHALIDL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/KHALIDM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/KHALIDS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/MKHIINL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/MKHIINL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/MKHIINM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/MKHIINS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/MKHIINL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/MKHIINM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/MKHIINS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/MONTARL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/MONTARL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/MONTARM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/MONTARS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/MONTARL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/MONTARM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/MONTARS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/NEERAL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/NEERAL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/NEERAM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/NEERAS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NEERAL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NEERAM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NEERAS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/RASAADL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/RASAADL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/RASAADM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/RASAADS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/RASAADL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/RASAADM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/RASAADS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/SAFANAL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/SAFANAL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/SAFANAM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/SAFANAS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/SAFANAL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/SAFANAM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/SAFANAS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/SHARTELL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/SHARTELL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/SHARTELM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/SHARTELS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/SHARTELL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/SHARTELM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/SHARTELS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/SKIEL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/SKIEL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/SKIEM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/SKIES.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/SKIEL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/SKIEM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/SKIES.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/VICONIAL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/VICONIAL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/VICONIAM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/VICONIAS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/VICONIAL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/VICONIAM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/VICONIAS.BMP~ ~override~
 END
 ACTION_IF NOT FILE_EXISTS ~override/BDVICONL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/BDVICONL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/BDVICONM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/BDVICONS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/BDVICONL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/BDVICONM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/BDVICONS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/VOGHILNL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/VOGHILNL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/VOGHILNM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/VOGHILNS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/VOGHILNL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/VOGHILNM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/VOGHILNS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/MINSCL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/MINSCL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/MINSCM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/MINSCS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/MINSCL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/MINSCM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/MINSCS.BMP~ ~override~
 END
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
@@ -180,47 +180,61 @@ END
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
-BEGIN ~ensrick_portraits~
-DESIGNATED 2
+BEGIN ~companions_bg2~
+DESIGNATED 1
 REQUIRE_PREDICATE GAME_IS ~tob bg2ee eet~ ~This mod cannot be installed on this game~
 
 ACTION_IF NOT FILE_EXISTS ~override/DORNL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/DORNL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/DORNM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/DORNL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/DORNM.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/NEDWINL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/NEDWINL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/NEDWINM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/NEDWINS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NEDWINL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NEDWINM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NEDWINS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/NEERAL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/NEERAL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/NEERAM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NEERAL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NEERAM.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/NIMOENL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/NIMOENL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/NIMOENM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NIMOENL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NIMOENM.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/NJAHEIRL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/NJAHEIRL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/NJAHEIRM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NJAHEIRL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NJAHEIRM.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/NVICONL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/NVICONL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/NVICONM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NVICONL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NVICONM.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/RASAADL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/RASAADL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/RASAADM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/RASAADL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/RASAADM.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/NMINSCL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/portraits/NMINSCL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/portraits/NMINSCM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NMINSCL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/companions/NMINSCM.BMP~ ~override~
 END
+
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// Protagonist portraits                            \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
+BEGIN ~protagonist~
+DESIGNATED 2
+REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet~ ~This mod cannot be installed on this game~
+
+COPY ~%MOD_FOLDER%/protagonist~ ~override~
