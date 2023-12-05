@@ -36,6 +36,12 @@ ACTION_IF NOT FILE_EXISTS ~override/BRANWEL.BMP~ BEGIN
   COPY ~%MOD_FOLDER%/portraits/BRANWES.BMP~ ~override~
 END
 
+ACTION_IF NOT FILE_EXISTS ~override/EDWINL.BMP~ BEGIN
+  COPY ~bmpp/top_edwin/EDWINL.BMP~ ~override~
+  COPY ~bmpp/top_edwin/EDWINM.BMP~ ~override~
+  COPY ~bmpp/top_edwin/EDWINS.BMP~ ~override~
+END
+
 ACTION_IF NOT FILE_EXISTS ~override/SCHAELL.BMP~ BEGIN
   COPY ~%MOD_FOLDER%/portraits/SCHAELL.BMP~ ~override~
   COPY ~%MOD_FOLDER%/portraits/SCHAELM.BMP~ ~override~
@@ -174,6 +180,11 @@ REQUIRE_PREDICATE GAME_IS ~tob bg2ee eet~ ~This mod cannot be installed on this 
 ACTION_IF NOT FILE_EXISTS ~override/DORNL.BMP~ BEGIN
   COPY ~%MOD_FOLDER%/portraits/DORNL.BMP~ ~override~
   COPY ~%MOD_FOLDER%/portraits/DORNM.BMP~ ~override~
+END
+
+ACTION_IF NOT FILE_EXISTS ~override/NEDWINL.BMP~ BEGIN
+  COPY ~bmpp/top_edwin/NEDWINL.BMP~ ~override~
+  COPY ~bmpp/top_edwin/NEDWINM.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/NEERAL.BMP~ BEGIN

@@ -45,6 +45,11 @@ Provided both a zip for ease of use plus a weidu mod.
 ![DYNAHEI](ensrick_portraits/portraits/DYNAHEIL.BMP)
 
 
+### EDWIN
+
+![EDWIN](ensrick_portraits/portraits/EDWINL.BMP)
+
+
 ### ELDOTH
 
 ![ELDOTH](ensrick_portraits/portraits/ELDOTHL.BMP)
