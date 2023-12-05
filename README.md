@@ -35,6 +35,11 @@ Provided both a zip for ease of use plus a weidu mod.
 ![CORAN](ensrick_portraits/portraits/CORANL.BMP)
 
 
+### DORN
+
+![DORN](ensrick_portraits/portraits/DORNL.BMP)
+
+
 ### DYNAHEI
 
 ![DYNAHEI](ensrick_portraits/portraits/DYNAHEIL.BMP)

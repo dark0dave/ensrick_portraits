@@ -48,6 +48,11 @@ ACTION_IF NOT FILE_EXISTS ~override/CORANL.BMP~ BEGIN
   COPY ~%MOD_FOLDER%/portraits/CORANS.BMP~ ~override~
 END
 
+ACTION_IF NOT FILE_EXISTS ~override/DORNL.BMP~ BEGIN
+  COPY ~%MOD_FOLDER%/portraits/DORNL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/portraits/DORNM.BMP~ ~override~
+END
+
 ACTION_IF NOT FILE_EXISTS ~override/DYNAHEIL.BMP~ BEGIN
   COPY ~%MOD_FOLDER%/portraits/DYNAHEIL.BMP~ ~override~
   COPY ~%MOD_FOLDER%/portraits/DYNAHEIM.BMP~ ~override~
@@ -165,6 +170,11 @@ END
 BEGIN ~ensrick_portraits~
 DESIGNATED 2
 REQUIRE_PREDICATE GAME_IS ~tob bg2ee eet~ ~This mod cannot be installed on this game~
+
+ACTION_IF NOT FILE_EXISTS ~override/DORNL.BMP~ BEGIN
+  COPY ~%MOD_FOLDER%/portraits/DORNL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/portraits/DORNM.BMP~ ~override~
+END
 
 ACTION_IF NOT FILE_EXISTS ~override/NEERAL.BMP~ BEGIN
   COPY ~%MOD_FOLDER%/portraits/NEERAL.BMP~ ~override~
