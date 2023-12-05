@@ -37,9 +37,9 @@ ACTION_IF NOT FILE_EXISTS ~override/BRANWEL.BMP~ BEGIN
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/EDWINL.BMP~ BEGIN
-  COPY ~bmpp/top_edwin/EDWINL.BMP~ ~override~
-  COPY ~bmpp/top_edwin/EDWINM.BMP~ ~override~
-  COPY ~bmpp/top_edwin/EDWINS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/portraits/EDWINL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/portraits/EDWINM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/portraits/EDWINS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/SCHAELL.BMP~ BEGIN
@@ -57,6 +57,7 @@ END
 ACTION_IF NOT FILE_EXISTS ~override/DORNL.BMP~ BEGIN
   COPY ~%MOD_FOLDER%/portraits/DORNL.BMP~ ~override~
   COPY ~%MOD_FOLDER%/portraits/DORNM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/portraits/DORNS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/DYNAHEIL.BMP~ BEGIN
@@ -189,8 +190,9 @@ ACTION_IF NOT FILE_EXISTS ~override/DORNL.BMP~ BEGIN
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/NEDWINL.BMP~ BEGIN
-  COPY ~bmpp/top_edwin/NEDWINL.BMP~ ~override~
-  COPY ~bmpp/top_edwin/NEDWINM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/portraits/NEDWINL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/portraits/NEDWINM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/portraits/NEDWINS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/NEERAL.BMP~ BEGIN

@@ -104,9 +104,34 @@ Provided both a zip for ease of use plus a weidu mod.
 ![MONTAR](ensrick_portraits/portraits/MONTARL.BMP)
 
 
+### NEDWIN
+
+![NEDWIN](ensrick_portraits/portraits/NEDWINL.BMP)
+
+
 ### NEERA
 
 ![NEERA](ensrick_portraits/portraits/NEERAL.BMP)
+
+
+### NIMOEN
+
+![NIMOEN](ensrick_portraits/portraits/NIMOENL.BMP)
+
+
+### NJAHEIR
+
+![NJAHEIR](ensrick_portraits/portraits/NJAHEIRL.BMP)
+
+
+### NMINSC
+
+![NMINSC](ensrick_portraits/portraits/NMINSCL.BMP)
+
+
+### NVICON
+
+![NVICON](ensrick_portraits/portraits/NVICONL.BMP)
 
 
 ### RASAAD
