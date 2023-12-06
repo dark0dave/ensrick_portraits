@@ -11,162 +11,162 @@ Provided both a zip for ease of use plus a weidu mod.
 
 ### AJANTIS
 
-![AJANTIS](ensrick_portraits/companions/AJANTISL.BMP)
+![AJANTIS](ensrick_portraits/companions/bg1/AJANTISL.BMP)
 
 
 ### ALORA
 
-![ALORA](ensrick_portraits/companions/ALORAL.BMP)
+![ALORA](ensrick_portraits/companions/bg1/ALORAL.BMP)
 
 
 ### BDIMOEN
 
-![BDIMOEN](ensrick_portraits/companions/BDIMOENL.BMP)
+![BDIMOEN](ensrick_portraits/companions/bg1/BDIMOENL.BMP)
 
 
 ### BDVICON
 
-![BDVICON](ensrick_portraits/companions/BDVICONL.BMP)
+![BDVICON](ensrick_portraits/companions/bg1/BDVICONL.BMP)
 
 
 ### BRANWE
 
-![BRANWE](ensrick_portraits/companions/BRANWEL.BMP)
+![BRANWE](ensrick_portraits/companions/bg1/BRANWEL.BMP)
 
 
 ### CORAN
 
-![CORAN](ensrick_portraits/companions/CORANL.BMP)
-
-
-### DORN
-
-![DORN](ensrick_portraits/companions/DORNL.BMP)
+![CORAN](ensrick_portraits/companions/bg1/CORANL.BMP)
 
 
 ### DYNAHEI
 
-![DYNAHEI](ensrick_portraits/companions/DYNAHEIL.BMP)
+![DYNAHEI](ensrick_portraits/companions/bg1/DYNAHEIL.BMP)
 
 
 ### EDWIN
 
-![EDWIN](ensrick_portraits/companions/EDWINL.BMP)
+![EDWIN](ensrick_portraits/companions/bg1/EDWINL.BMP)
 
 
 ### ELDOTH
 
-![ELDOTH](ensrick_portraits/companions/ELDOTHL.BMP)
+![ELDOTH](ensrick_portraits/companions/bg1/ELDOTHL.BMP)
 
 
 ### FALDORN
 
-![FALDORN](ensrick_portraits/companions/FALDORNL.BMP)
+![FALDORN](ensrick_portraits/companions/bg1/FALDORNL.BMP)
 
 
 ### GLINT
 
-![GLINT](ensrick_portraits/companions/GLINTL.BMP)
+![GLINT](ensrick_portraits/companions/bg1/GLINTL.BMP)
 
 
 ### IMOEN
 
-![IMOEN](ensrick_portraits/companions/IMOENL.BMP)
+![IMOEN](ensrick_portraits/companions/bg1/IMOENL.BMP)
 
 
 ### JAHEIRA
 
-![JAHEIRA](ensrick_portraits/companions/JAHEIRAL.BMP)
+![JAHEIRA](ensrick_portraits/companions/bg1/JAHEIRAL.BMP)
 
 
 ### KHALID
 
-![KHALID](ensrick_portraits/companions/KHALIDL.BMP)
+![KHALID](ensrick_portraits/companions/bg1/KHALIDL.BMP)
 
 
 ### KIVAN
 
-![KIVAN](ensrick_portraits/companions/KIVANL.BMP)
+![KIVAN](ensrick_portraits/companions/bg1/KIVANL.BMP)
 
 
 ### MINSC
 
-![MINSC](ensrick_portraits/companions/MINSCL.BMP)
+![MINSC](ensrick_portraits/companions/bg1/MINSCL.BMP)
 
 
 ### MKHIIN
 
-![MKHIIN](ensrick_portraits/companions/MKHIINL.BMP)
+![MKHIIN](ensrick_portraits/companions/bg1/MKHIINL.BMP)
 
 
 ### MONTAR
 
-![MONTAR](ensrick_portraits/companions/MONTARL.BMP)
-
-
-### NEDWIN
-
-![NEDWIN](ensrick_portraits/companions/NEDWINL.BMP)
-
-
-### NEERA
-
-![NEERA](ensrick_portraits/companions/NEERAL.BMP)
-
-
-### NIMOEN
-
-![NIMOEN](ensrick_portraits/companions/NIMOENL.BMP)
-
-
-### NJAHEIR
-
-![NJAHEIR](ensrick_portraits/companions/NJAHEIRL.BMP)
-
-
-### NMINSC
-
-![NMINSC](ensrick_portraits/companions/NMINSCL.BMP)
-
-
-### NVICON
-
-![NVICON](ensrick_portraits/companions/NVICONL.BMP)
-
-
-### RASAAD
-
-![RASAAD](ensrick_portraits/companions/RASAADL.BMP)
+![MONTAR](ensrick_portraits/companions/bg1/MONTARL.BMP)
 
 
 ### SAFANA
 
-![SAFANA](ensrick_portraits/companions/SAFANAL.BMP)
+![SAFANA](ensrick_portraits/companions/bg1/SAFANAL.BMP)
 
 
 ### SCHAEL
 
-![SCHAEL](ensrick_portraits/companions/SCHAELL.BMP)
+![SCHAEL](ensrick_portraits/companions/bg1/SCHAELL.BMP)
 
 
 ### SHARTEL
 
-![SHARTEL](ensrick_portraits/companions/SHARTELL.BMP)
+![SHARTEL](ensrick_portraits/companions/bg1/SHARTELL.BMP)
 
 
 ### SKIE
 
-![SKIE](ensrick_portraits/companions/SKIEL.BMP)
+![SKIE](ensrick_portraits/companions/bg1/SKIEL.BMP)
 
 
 ### VICONIA
 
-![VICONIA](ensrick_portraits/companions/VICONIAL.BMP)
+![VICONIA](ensrick_portraits/companions/bg1/VICONIAL.BMP)
 
 
 ### VOGHILN
 
-![VOGHILN](ensrick_portraits/companions/VOGHILNL.BMP)
+![VOGHILN](ensrick_portraits/companions/bg1/VOGHILNL.BMP)
+
+
+### NEDWIN
+
+![NEDWIN](ensrick_portraits/companions/bg2/NEDWINL.BMP)
+
+
+### NIMOEN
+
+![NIMOEN](ensrick_portraits/companions/bg2/NIMOENL.BMP)
+
+
+### NJAHEIR
+
+![NJAHEIR](ensrick_portraits/companions/bg2/NJAHEIRL.BMP)
+
+
+### NMINSC
+
+![NMINSC](ensrick_portraits/companions/bg2/NMINSCL.BMP)
+
+
+### NVICON
+
+![NVICON](ensrick_portraits/companions/bg2/NVICONL.BMP)
+
+
+### DORN
+
+![DORN](ensrick_portraits/companions/both/DORNL.BMP)
+
+
+### NEERA
+
+![NEERA](ensrick_portraits/companions/both/NEERAL.BMP)
+
+
+### RASAAD
+
+![RASAAD](ensrick_portraits/companions/both/RASAADL.BMP)
 
 
 ## Protagonist Portraits
