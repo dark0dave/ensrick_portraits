@@ -84,15 +84,15 @@ ACTION_IF NOT FILE_EXISTS ~override/GLINTL.BMP~ BEGIN
   COPY ~%MOD_FOLDER%/companions/GLINTL.BMP~ ~override~
 END
 
-ACTION_IF NOT FILE_EXISTS ~override/NIMOENL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/companions/NIMOENL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/companions/NIMOENM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/companions/NIMOENS.BMP~ ~override~
+ACTION_IF NOT FILE_EXISTS ~override/IMOENL.BMP~ BEGIN
+  COPY ~%MOD_FOLDER%/top_imoen/IMOENL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/top_imoen/IMOENM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/top_imoen/IMOENS.BMP~ ~override~
 END
 ACTION_IF NOT FILE_EXISTS ~override/BDIMOENL.BMP~ BEGIN
-  COPY ~%MOD_FOLDER%/companions/BDIMOENL.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/companions/BDIMOENM.BMP~ ~override~
-  COPY ~%MOD_FOLDER%/companions/BDIMOENS.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/top_imoen/BDIMOENL.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/top_imoen/BDIMOENM.BMP~ ~override~
+  COPY ~%MOD_FOLDER%/top_imoen/BDIMOENS.BMP~ ~override~
 END
 
 ACTION_IF NOT FILE_EXISTS ~override/JAHEIRAL.BMP~ BEGIN
