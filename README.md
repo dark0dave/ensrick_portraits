@@ -252,6 +252,11 @@ Provided both a zip for ease of use plus a weidu mod.
 ![MALLOC1](ensrick_portraits/protagonist/MALLOC1L.BMP)
 
 
+### MALROG1
+
+![MALROG1](ensrick_portraits/protagonist/MALROG1L.BMP)
+
+
 ### MALWAR1
 
 ![MALWAR1](ensrick_portraits/protagonist/MALWAR1L.BMP)
