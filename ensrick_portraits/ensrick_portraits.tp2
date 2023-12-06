@@ -230,7 +230,7 @@ COPY ~%MOD_FOLDER%/companions/both/~ ~override~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
 BEGIN ~Protagonist Portraits~
-DESIGNATED 2
+DESIGNATED 4
 REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet~ ~This mod cannot be installed on this game~
 
 COPY ~%MOD_FOLDER%/protagonist~ ~override~
