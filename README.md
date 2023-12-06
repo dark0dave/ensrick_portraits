@@ -192,6 +192,11 @@ Provided both a zip for ease of use plus a weidu mod.
 ![FEMCLE2](ensrick_portraits/protagonist/FEMCLE2L.BMP)
 
 
+### FEMDRU1
+
+![FEMDRU1](ensrick_portraits/protagonist/FEMDRU1L.BMP)
+
+
 ### FEMELF1
 
 ![FEMELF1](ensrick_portraits/protagonist/FEMELF1L.BMP)
@@ -202,6 +207,16 @@ Provided both a zip for ease of use plus a weidu mod.
 ![FEMRAN1](ensrick_portraits/protagonist/FEMRAN1L.BMP)
 
 
+### FEMRAN2
+
+![FEMRAN2](ensrick_portraits/protagonist/FEMRAN2L.BMP)
+
+
+### FEMSOR1
+
+![FEMSOR1](ensrick_portraits/protagonist/FEMSOR1L.BMP)
+
+
 ### FEMSORC
 
 ![FEMSORC](ensrick_portraits/protagonist/FEMSORCL.BMP)
@@ -210,6 +225,16 @@ Provided both a zip for ease of use plus a weidu mod.
 ### FEMWAR1
 
 ![FEMWAR1](ensrick_portraits/protagonist/FEMWAR1L.BMP)
+
+
+### FEMWAR2
+
+![FEMWAR2](ensrick_portraits/protagonist/FEMWAR2L.BMP)
+
+
+### FEMWAR3
+
+![FEMWAR3](ensrick_portraits/protagonist/FEMWAR3L.BMP)
 
 
 ### MALDWDRU
@@ -230,4 +255,14 @@ Provided both a zip for ease of use plus a weidu mod.
 ### MALWAR1
 
 ![MALWAR1](ensrick_portraits/protagonist/MALWAR1L.BMP)
+
+
+### MALWIZ1
+
+![MALWIZ1](ensrick_portraits/protagonist/MALWIZ1L.BMP)
+
+
+### MALWIZ2
+
+![MALWIZ2](ensrick_portraits/protagonist/MALWIZ2L.BMP)
 
