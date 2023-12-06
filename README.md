@@ -176,3 +176,58 @@ Provided both a zip for ease of use plus a weidu mod.
 
 ![BERSERK](ensrick_portraits/protagonist/BERSERKL.BMP)
 
+
+### FEMBARB
+
+![FEMBARB](ensrick_portraits/protagonist/FEMBARBL.BMP)
+
+
+### FEMCLE1
+
+![FEMCLE1](ensrick_portraits/protagonist/FEMCLE1L.BMP)
+
+
+### FEMCLE2
+
+![FEMCLE2](ensrick_portraits/protagonist/FEMCLE2L.BMP)
+
+
+### FEMELF1
+
+![FEMELF1](ensrick_portraits/protagonist/FEMELF1L.BMP)
+
+
+### FEMRAN1
+
+![FEMRAN1](ensrick_portraits/protagonist/FEMRAN1L.BMP)
+
+
+### FEMSORC
+
+![FEMSORC](ensrick_portraits/protagonist/FEMSORCL.BMP)
+
+
+### FEMWAR1
+
+![FEMWAR1](ensrick_portraits/protagonist/FEMWAR1L.BMP)
+
+
+### MALDWDRU
+
+![MALDWDRU](ensrick_portraits/protagonist/MALDWDRUL.BMP)
+
+
+### MALKNI1
+
+![MALKNI1](ensrick_portraits/protagonist/MALKNI1L.BMP)
+
+
+### MALLOC1
+
+![MALLOC1](ensrick_portraits/protagonist/MALLOC1L.BMP)
+
+
+### MALWAR1
+
+![MALWAR1](ensrick_portraits/protagonist/MALWAR1L.BMP)
+
