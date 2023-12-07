@@ -182,6 +182,26 @@ Provided both a zip for ease of use plus a weidu mod.
 ![CATPRI1](ensrick_portraits/protagonist/CATPRI1L.BMP)
 
 
+### CATPRI2
+
+![CATPRI2](ensrick_portraits/protagonist/CATPRI2L.BMP)
+
+
+### CATPRI3
+
+![CATPRI3](ensrick_portraits/protagonist/CATPRI3L.BMP)
+
+
+### DOGPRI1
+
+![DOGPRI1](ensrick_portraits/protagonist/DOGPRI1L.BMP)
+
+
+### FANGARM
+
+![FANGARM](ensrick_portraits/protagonist/FANGARML.BMP)
+
+
 ### FEMBAR1
 
 ![FEMBAR1](ensrick_portraits/protagonist/FEMBAR1L.BMP)
@@ -190,6 +210,11 @@ Provided both a zip for ease of use plus a weidu mod.
 ### FEMBARB
 
 ![FEMBARB](ensrick_portraits/protagonist/FEMBARBL.BMP)
+
+
+### FEMBLA1
+
+![FEMBLA1](ensrick_portraits/protagonist/FEMBLA1L.BMP)
 
 
 ### FEMCLE1
@@ -212,9 +237,34 @@ Provided both a zip for ease of use plus a weidu mod.
 ![FEMDRU1](ensrick_portraits/protagonist/FEMDRU1L.BMP)
 
 
+### FEMDRU2
+
+![FEMDRU2](ensrick_portraits/protagonist/FEMDRU2L.BMP)
+
+
 ### FEMELF1
 
 ![FEMELF1](ensrick_portraits/protagonist/FEMELF1L.BMP)
+
+
+### FEMKNI1
+
+![FEMKNI1](ensrick_portraits/protagonist/FEMKNI1L.BMP)
+
+
+### FEMLOC1
+
+![FEMLOC1](ensrick_portraits/protagonist/FEMLOC1L.BMP)
+
+
+### FEMPLA1
+
+![FEMPLA1](ensrick_portraits/protagonist/FEMPLA1L.BMP)
+
+
+### FEMRA1
+
+![FEMRA1](ensrick_portraits/protagonist/FEMRA1L.BMP)
 
 
 ### FEMRAN1
@@ -225,6 +275,11 @@ Provided both a zip for ease of use plus a weidu mod.
 ### FEMRAN2
 
 ![FEMRAN2](ensrick_portraits/protagonist/FEMRAN2L.BMP)
+
+
+### FEMROG1
+
+![FEMROG1](ensrick_portraits/protagonist/FEMROG1L.BMP)
 
 
 ### FEMSOR1
@@ -242,6 +297,16 @@ Provided both a zip for ease of use plus a weidu mod.
 ![FEMSOR3](ensrick_portraits/protagonist/FEMSOR3L.BMP)
 
 
+### FEMSOR4
+
+![FEMSOR4](ensrick_portraits/protagonist/FEMSOR4L.BMP)
+
+
+### FEMSUC1
+
+![FEMSUC1](ensrick_portraits/protagonist/FEMSUC1L.BMP)
+
+
 ### FEMWAR1
 
 ![FEMWAR1](ensrick_portraits/protagonist/FEMWAR1L.BMP)
@@ -257,9 +322,34 @@ Provided both a zip for ease of use plus a weidu mod.
 ![FEMWAR3](ensrick_portraits/protagonist/FEMWAR3L.BMP)
 
 
+### FEMWIZ1
+
+![FEMWIZ1](ensrick_portraits/protagonist/FEMWIZ1L.BMP)
+
+
+### LICH1
+
+![LICH1](ensrick_portraits/protagonist/LICH1L.BMP)
+
+
+### LICH2
+
+![LICH2](ensrick_portraits/protagonist/LICH2L.BMP)
+
+
 ### MALBAR1
 
 ![MALBAR1](ensrick_portraits/protagonist/MALBAR1L.BMP)
+
+
+### MALCLE1
+
+![MALCLE1](ensrick_portraits/protagonist/MALCLE1L.BMP)
+
+
+### MALDRU1
+
+![MALDRU1](ensrick_portraits/protagonist/MALDRU1L.BMP)
 
 
 ### MALDWDRU
@@ -277,6 +367,21 @@ Provided both a zip for ease of use plus a weidu mod.
 ![MALLOC1](ensrick_portraits/protagonist/MALLOC1L.BMP)
 
 
+### MALPLA1
+
+![MALPLA1](ensrick_portraits/protagonist/MALPLA1L.BMP)
+
+
+### MALPLA2
+
+![MALPLA2](ensrick_portraits/protagonist/MALPLA2L.BMP)
+
+
+### MALRA1
+
+![MALRA1](ensrick_portraits/protagonist/MALRA1L.BMP)
+
+
 ### MALROG1
 
 ![MALROG1](ensrick_portraits/protagonist/MALROG1L.BMP)
@@ -285,6 +390,21 @@ Provided both a zip for ease of use plus a weidu mod.
 ### MALROG2
 
 ![MALROG2](ensrick_portraits/protagonist/MALROG2L.BMP)
+
+
+### MALROG3
+
+![MALROG3](ensrick_portraits/protagonist/MALROG3L.BMP)
+
+
+### MALROG4
+
+![MALROG4](ensrick_portraits/protagonist/MALROG4L.BMP)
+
+
+### MALVAM1
+
+![MALVAM1](ensrick_portraits/protagonist/MALVAM1L.BMP)
 
 
 ### MALWAR1
@@ -302,6 +422,16 @@ Provided both a zip for ease of use plus a weidu mod.
 ![MALWAR4](ensrick_portraits/protagonist/MALWAR4L.BMP)
 
 
+### MALWAR5
+
+![MALWAR5](ensrick_portraits/protagonist/MALWAR5L.BMP)
+
+
+### MALWAR6
+
+![MALWAR6](ensrick_portraits/protagonist/MALWAR6L.BMP)
+
+
 ### MALWIZ1
 
 ![MALWIZ1](ensrick_portraits/protagonist/MALWIZ1L.BMP)
@@ -310,4 +440,29 @@ Provided both a zip for ease of use plus a weidu mod.
 ### MALWIZ2
 
 ![MALWIZ2](ensrick_portraits/protagonist/MALWIZ2L.BMP)
+
+
+### MALWIZ3
+
+![MALWIZ3](ensrick_portraits/protagonist/MALWIZ3L.BMP)
+
+
+### MALWIZ4
+
+![MALWIZ4](ensrick_portraits/protagonist/MALWIZ4L.BMP)
+
+
+### NOSFER
+
+![NOSFER](ensrick_portraits/protagonist/NOSFERL.BMP)
+
+
+### RATMAN1
+
+![RATMAN1](ensrick_portraits/protagonist/RATMAN1L.BMP)
+
+
+### RATMAN2
+
+![RATMAN2](ensrick_portraits/protagonist/RATMAN2L.BMP)
 

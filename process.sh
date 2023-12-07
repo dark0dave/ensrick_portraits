@@ -3,6 +3,7 @@ set -euo pipefail
 
 convert() {
   mogrify -format bmp ${1}
+  trap "rm -f ${1: 0:-3}bmp" EXIT
 }
 
 sizer() {
@@ -11,13 +12,17 @@ sizer() {
 }
 
 main() {
-    convert $1
-    base_name=${1: 0:-4}
-    echo "${base_name}"
-    read -ep "Give images a name: " newname
-    mv "${base_name}".bmp "${newname}"L.BMP
-    sizer $newname >/dev/null
-    mv "${newname}"* ensrick_portraits/protagonist/.
+  convert $1
+  base_name=${1: 0:-4}
+  echo "${base_name}"
+  read -ep "Give images a name: " newname
+  if [ -f ensrick_portraits/protagonist/"${newname}"L.BMP ]; then
+    echo "Name in use: ${newname}"
+    main $1
+  fi
+  mv "${base_name}".bmp "${newname}"L.BMP
+  sizer $newname >/dev/null
+  mv "${newname}"* ensrick_portraits/protagonist/.
 }
 
 main $1
