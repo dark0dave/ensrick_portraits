@@ -177,26 +177,6 @@ Provided both a zip for ease of use plus a weidu mod.
 ![BERSERK](ensrick_portraits/protagonist/BERSERKL.BMP)
 
 
-### CATPRI1
-
-![CATPRI1](ensrick_portraits/protagonist/CATPRI1L.BMP)
-
-
-### CATPRI2
-
-![CATPRI2](ensrick_portraits/protagonist/CATPRI2L.BMP)
-
-
-### CATPRI3
-
-![CATPRI3](ensrick_portraits/protagonist/CATPRI3L.BMP)
-
-
-### DOGPRI1
-
-![DOGPRI1](ensrick_portraits/protagonist/DOGPRI1L.BMP)
-
-
 ### FANGARM
 
 ![FANGARM](ensrick_portraits/protagonist/FANGARML.BMP)
@@ -337,6 +317,11 @@ Provided both a zip for ease of use plus a weidu mod.
 ![LICH2](ensrick_portraits/protagonist/LICH2L.BMP)
 
 
+### LICH3
+
+![LICH3](ensrick_portraits/protagonist/LICH3L.BMP)
+
+
 ### MALBAR1
 
 ![MALBAR1](ensrick_portraits/protagonist/MALBAR1L.BMP)
@@ -455,14 +440,4 @@ Provided both a zip for ease of use plus a weidu mod.
 ### NOSFER
 
 ![NOSFER](ensrick_portraits/protagonist/NOSFERL.BMP)
-
-
-### RATMAN1
-
-![RATMAN1](ensrick_portraits/protagonist/RATMAN1L.BMP)
-
-
-### RATMAN2
-
-![RATMAN2](ensrick_portraits/protagonist/RATMAN2L.BMP)
 
