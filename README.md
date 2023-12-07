@@ -212,6 +212,11 @@ Provided both a zip for ease of use plus a weidu mod.
 ![FEMCLE3](ensrick_portraits/protagonist/FEMCLE3L.BMP)
 
 
+### FEMCLE4
+
+![FEMCLE4](ensrick_portraits/protagonist/FEMCLE4L.BMP)
+
+
 ### FEMDRU1
 
 ![FEMDRU1](ensrick_portraits/protagonist/FEMDRU1L.BMP)
