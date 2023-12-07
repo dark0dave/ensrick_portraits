@@ -13,8 +13,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: zip
         run: |
-          zip -r ensrick_companions.zip ensrick_portraits/companions
-          zip -r ensrick_protagonist.zip ensrick_portraits/protagonist
+          zip -9 -r ensrick_companions.zip ensrick_portraits/companions
+          zip -9 -r ensrick_protagonist.zip ensrick_portraits/protagonist
       - name: Archive release artifacts
         uses: actions/upload-artifact@v3
         with:
