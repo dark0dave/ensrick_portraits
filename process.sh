@@ -23,6 +23,8 @@ main() {
   mv "${base_name}".bmp "${newname}"L.BMP
   sizer $newname >/dev/null
   mv "${newname}"* ensrick_portraits/protagonist/.
+  rm ${1}
+  ./util/gen_readme.sh
 }
 
 main $1

@@ -237,6 +237,11 @@ Provided both a zip for ease of use plus a weidu mod.
 ![FEMKNI1](ensrick_portraits/protagonist/FEMKNI1L.BMP)
 
 
+### FEMKNI2
+
+![FEMKNI2](ensrick_portraits/protagonist/FEMKNI2L.BMP)
+
+
 ### FEMLOC1
 
 ![FEMLOC1](ensrick_portraits/protagonist/FEMLOC1L.BMP)
