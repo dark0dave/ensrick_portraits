@@ -332,9 +332,24 @@ Provided both a zip for ease of use plus a weidu mod.
 ![LICH3](ensrick_portraits/protagonist/LICH3L.BMP)
 
 
+### LICH4
+
+![LICH4](ensrick_portraits/protagonist/LICH4L.BMP)
+
+
+### MALARC1
+
+![MALARC1](ensrick_portraits/protagonist/MALARC1L.BMP)
+
+
 ### MALBAR1
 
 ![MALBAR1](ensrick_portraits/protagonist/MALBAR1L.BMP)
+
+
+### MALBLA
+
+![MALBLA](ensrick_portraits/protagonist/MALBLAL.BMP)
 
 
 ### MALCLE1
@@ -357,6 +372,11 @@ Provided both a zip for ease of use plus a weidu mod.
 ![MALKNI1](ensrick_portraits/protagonist/MALKNI1L.BMP)
 
 
+### MALKNI2
+
+![MALKNI2](ensrick_portraits/protagonist/MALKNI2L.BMP)
+
+
 ### MALLOC1
 
 ![MALLOC1](ensrick_portraits/protagonist/MALLOC1L.BMP)
@@ -370,6 +390,16 @@ Provided both a zip for ease of use plus a weidu mod.
 ### MALPLA2
 
 ![MALPLA2](ensrick_portraits/protagonist/MALPLA2L.BMP)
+
+
+### MALPLA3
+
+![MALPLA3](ensrick_portraits/protagonist/MALPLA3L.BMP)
+
+
+### MALPLA
+
+![MALPLA](ensrick_portraits/protagonist/MALPLAL.BMP)
 
 
 ### MALRA1

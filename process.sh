@@ -24,7 +24,7 @@ main() {
   sizer $newname >/dev/null
   mv "${newname}"* ensrick_portraits/protagonist/.
   rm ${1}
-  ./util/gen_readme.sh
+  ./utils/gen_readme.sh
 }
 
 main $1
